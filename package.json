@@ -1,0 +1,13 @@
+{
+  "name": "meu-portfolio",
+  "version": "1.0.0",
+  "description": "Mini Portfolio using JavaScript and CSS",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "repository": "https://github.com/seu-usuario/seu-portfolio",
+  "keywords": ["portfolio", "javascript", "css", "web development"],
+  "author": "Seu Nome",
+  "license": "ISC"
+}
